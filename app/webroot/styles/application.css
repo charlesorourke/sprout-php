@@ -1,0 +1,10 @@
+body {
+	background: #fff url(/images/sprout.png) no-repeat 50% 80px;
+	border-radius: 5px;
+	box-shadow: 0 0 15px #ccc;
+	color: #000;
+	font: 80%/1.5 "Lucida Grande", "Lucida Sans", Lucida, Verdana, sans-serif;
+	margin: 50px auto 3em;
+	padding: 90px 30px 15px;
+	width: 600px;
+}

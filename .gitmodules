@@ -1,0 +1,3 @@
+[submodule "lib/sprout"]
+	path = lib/sprout
+	url = git://github.com/dmingos/sprout.git
