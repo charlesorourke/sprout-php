@@ -34,4 +34,14 @@ Sprout PHP is opinionated software adhering to [convention over configuration](h
 For more information on what's been done and what's coming, check out the [development roadmap](https://github.com/dmingos/sprout-php-framework/wiki/Roadmap).
 
 ## Getting started ##
-To get Sprout PHP up and running on your computer, download a copy or clone one and set up a new virtual host or your webserver's webroot to `/path/to/sprout-php-framework/app/webroot`.
+To get Sprout PHP up and running on your computer:
+
+1. Clone a copy and udpate the submodules:
+
+	$ git clone git://github.com/dmingos/sprout-php-framework.git
+	$ cd sprout-php-framework
+	$ git submodule init
+	$ git submodule update
+
+2. Point your webserver's webroot to `/path/to/sprout-php-framework/app/webroot`.
+3. Open http://localhost/ in your favorite browser.
