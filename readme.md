@@ -36,12 +36,13 @@ For more information on what's been done and what's coming, check out the [devel
 ## Getting started ##
 To get Sprout PHP up and running on your computer:
 
-1. Clone a copy and udpate the submodules:
+**Step 1.** Clone a copy and udpate the submodules:
 
 	$ git clone git://github.com/dmingos/sprout-php-framework.git
 	$ cd sprout-php-framework
 	$ git submodule init
 	$ git submodule update
 
-2. Point your webserver's webroot to `/path/to/sprout-php-framework/app/webroot`.
-3. Open http://localhost/ in your favorite browser.
+**Step 2.** Point a new virtual host or your webserver's webroot to `/path/to/sprout-php-framework/app/webroot`.
+
+**Step 3.** Open http://localhost/ in your favorite browser.
