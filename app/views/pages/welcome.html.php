@@ -1,6 +1,6 @@
 <h1>Welcome</h1>
 
-<p>Contratulations! You’re up and running with Sprout PHP.</p>
+<p>Congratulations! You’re up and running with Sprout PHP.</p>
 
 <h3>About this page</h3>
 
